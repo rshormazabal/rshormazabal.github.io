@@ -1,14 +1,14 @@
 # Site settings
 title: Rodrigo Hormazabal
-description: Chemical engineer
+description: AI Research Scientist
 # baseurl: "/particle" # the subpath of your site, e.g. /blog
 # url: "localhost:3000" # the base hostname & protocol for your site e.g. http://willianjusten.com.br
 
 # User settings
 username: Rodrigo
-user_description: I'm a Chemical engineer currently working on ML solutions for the manufacturing industry. Korea University.
-user_title: Chemical engineer - Machine learning
-email: rshormazabal@gmail.com
+user_description: I'm a Research Scientist @ LG AI Research and a PhD Student at the Kim Jaechul Graduate School of AI of the Korea Advanced Institute of Science under the supervision of Professor Jaegul Choo.
+user_title: Research Scientist @ LG AI Research
+email: rodrigo@lgresearch.ai
 twitter_username: rshormazabal
 github_username:  rshormazabal
 # gplus_username:  lorem_ipsum
